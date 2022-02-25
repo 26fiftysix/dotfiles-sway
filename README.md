@@ -11,3 +11,5 @@
 * wob: A lightweight overlay volume/backlight/progress/anything bar for Wayland
 * clipman: A simple clipboard manager for Wayland
 * ncspot: Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+
+<img src="desktop.png">
