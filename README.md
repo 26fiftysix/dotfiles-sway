@@ -5,7 +5,7 @@
 * mako: Lightweight notification daemon
 * slurp: Select a region
 * swayidle: Idle management daemon
-* swaylock: Screen locker
+* swaylock-effects: A fancier screen locker for Wayland.
 * xorg-xwayland: X11 support
 * fzf: Command-line fuzzy finder
 * wob: A lightweight overlay volume/backlight/progress/anything bar for Wayland
